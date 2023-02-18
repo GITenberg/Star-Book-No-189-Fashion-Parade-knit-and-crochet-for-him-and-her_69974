@@ -1,0 +1,31 @@
+_repo: Star-Book-No-189-Fashion-Parade-knit-and-crochet-for-him-and-her_69974
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-02-07'
+identifiers:
+  gutenberg: '69974'
+language: en
+pgterms:marc905: 20200303174341anonymous
+pgterms:marc906: '1969'
+pgterms:marc907: US
+production_note: Stephen Hutcheson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: '  $aUnited States :$bAmerican Thread Company, $c1969.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Star Book No. 189: Fashion Parade: knit and crochet for him and her'
+url: http://www.gutenberg.org/ebooks/69974
