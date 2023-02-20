@@ -1,5 +1,8 @@
 _repo: Star-Book-No-189-Fashion-Parade-knit-and-crochet-for-him-and-her_69974
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69974-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69974#Star-Book-No-189-Fashion-Parade-knit-and-crochet-for-him-and-her
 gutenberg_issued: '2023-02-07'
 identifiers:
   gutenberg: '69974'
